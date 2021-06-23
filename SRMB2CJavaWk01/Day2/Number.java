@@ -114,11 +114,7 @@ class Number
         return sum;
     }
 
-  //  public void dispBinary ( )
-    //{
-      //  System.out.println("ByteValue of lg :" + Long.toBinaryString(lg));
-    //}
-
+ 
     public double getSqrt ( ){
         double a = 30;
         return(Math.sqrt(a));
